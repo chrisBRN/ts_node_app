@@ -1,0 +1,17 @@
+{
+  "appenders": {
+    "out": {
+      "type": "stdout",
+      "layout": {
+        "type": "pattern",
+        "pattern": "%[[%d] -- [NODE_APP] -- [%p] -- [%c]%] -- %m"
+      }
+    }
+  },
+  "categories": {
+    "default": {
+      "appenders": ["out"],
+      "level": "info"
+    }
+  }
+}

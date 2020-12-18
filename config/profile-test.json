@@ -1,0 +1,6 @@
+{
+  "logConfig": "test",
+  "protocol": "https",
+  "allowDebuggingInfo": true,
+  "port": 8085
+}

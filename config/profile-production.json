@@ -1,0 +1,6 @@
+{
+  "logConfig": "production",
+  "protocol": "https",
+  "allowDebuggingInfo": false,
+  "port": 8080
+}
